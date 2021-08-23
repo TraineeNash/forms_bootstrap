@@ -1,18 +1,16 @@
 body{
-    margin: 0;
+    margin: 0
 }
 
 header{
     background-color: black;
-    color: white;
+    color: white
 }
-
 header nav a{
     color: white;
     text-decoration: none;
     margin-left: 10px;
 }
-
 .flex{
     display: flex;
 }
@@ -29,14 +27,14 @@ header nav a{
     width: 80%;
     margin: 20px auto;
 }
-
 /* main page */
 .banner{
     height: 400px;
-    background-color: grey;
+    background-color: gray;
     font-size: 5em;
     text-align: center;
     color: white;
 }
 
 /* contact page */
+
