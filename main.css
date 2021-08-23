@@ -1,0 +1,35 @@
+body{
+    margin: 0
+}
+
+header{
+    background-color: black;
+    color: white
+}
+header nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.flex{
+    display: flex;
+}
+
+.justify-content{
+    justify-content: space-between;
+}
+
+.align-items{
+    align-items: center;
+}
+
+.banner{
+    height: 400px;
+    background-color: gray;
+    font-size: 5em;
+    text-align: center;
+    color: white;
+}
+
+/* contact page */
+
